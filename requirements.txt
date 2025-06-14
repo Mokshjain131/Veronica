@@ -2,3 +2,8 @@ python-dotenv
 requests
 pyaudio
 pydub
+mcp[cli]==1.6.0 
+mcp
+google-generativeai==0.8.5
+ipykernel
+httpx
